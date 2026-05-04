@@ -1,0 +1,19 @@
+# Data processing
+pandas
+numpy
+scipy
+# Web scraping
+requests
+beautifulsoup4
+playwright
+fuzzywuzzy
+python-Levenshtein  # optional speedup for fuzzywuzzy
+# Statistical modelling
+statsmodels
+scikit-learn
+# Visualisation
+matplotlib
+seaborn
+plotly
+# Localisation
+Babel
